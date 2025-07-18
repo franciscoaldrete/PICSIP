@@ -417,6 +417,17 @@ p {
     padding: 3rem 0 1rem;
 }
 
+.footer-dark h5 {
+    color: var(--white-color);
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.footer-dark p {
+    color: var(--white-color);
+    margin-bottom: 0.5rem;
+}
+
 .footer-links {
     list-style: none;
     padding: 0;
@@ -427,7 +438,7 @@ p {
 }
 
 .footer-links a {
-    color: var(--light-gray);
+    color: var(--white-color);
     text-decoration: none;
     transition: var(--transition-base);
 }
@@ -461,7 +472,7 @@ p {
 }
 
 .footer-divider {
-    border-color: var(--gray-color);
+    border-color: var(--white-color);
     margin: 2rem 0 1rem;
 }
 
